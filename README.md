@@ -5,8 +5,8 @@ This portfolio and its contents are for personal showcase purposes only.
 Hi, I’m Hanno, a second-year student studying a Bachelor of Engineering (Robotics) (Honours) alongside a Master’s in Electrical and Electronic Engineering at Flinders University.  
 I’m passionate about automation, sustainable engineering, and multidisciplinary design. My engineering portfolio for projects, designs, and technical work.
 
-📄 **[View My Hydroponics Portfolio](https://drive.google.com/file/d/1g6cySiMWa5ZQMqid8R34IP-QiiZlCmon/view?usp=sharing)**
-
+📄 **[View My Robotics Competition Portfolio](https://drive.google.com/file/d/1g6cySiMWa5ZQMqid8R34IP-QiiZlCmon/view?usp=sharing)**
+📄 **[View My Hydroponics Portfolio](https://drive.google.com/file/d/1fylAP0pu7VEPAeUL8tZ49kBkCd7s0_tE/view?usp=sharing)**
 ---
 
 ## Skills
