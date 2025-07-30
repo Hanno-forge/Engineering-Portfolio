@@ -13,13 +13,14 @@ I’m passionate about automation, sustainable engineering, and multidisciplinar
 - **Software:** Autodesk Inventor, Fusion 360, Altium, Multisim, MATLAB, C++, Python
 - **Hardware:** Arduino, motor drivers, stepper motors, sensors
 - **Other:** 3D printing, prototyping, PCB design
-- many more skills I have not added yet
+- **many more skills I have not added yet**
 
 ## Projects
 1. **Automated Pill Dispenser** – CAD design, 3D printing, electronics integration
-2. **Robotics Competition Entry** – Autonomous navigation, obstacle handling
+2. **Robotics Competition University course** – Autonomous navigation, obstacle handling
 3. **Circuit Design for Data Acquisition** – PCB design in Altium
-4. Many others that I have not added yet
+4. **Automatic  Hydroponics System** - automatic nutrience dispensing, pH level testing, and water cycling
+5. **Many others that I have not added yet**
 
 ---
 🔗 **LinkedIn:** [linkedin.com/in/hanno-haarhoff](https://www.linkedin.com/in/hanno-haarhoff/)
