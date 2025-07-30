@@ -8,6 +8,7 @@ I’m passionate about automation, sustainable engineering, and multidisciplinar
 📄 **[View My Robotics Competition Portfolio](https://drive.google.com/file/d/1g6cySiMWa5ZQMqid8R34IP-QiiZlCmon/view?usp=sharing)**
 
 📄 **[View My Hydroponics Portfolio](https://drive.google.com/file/d/1fylAP0pu7VEPAeUL8tZ49kBkCd7s0_tE/view?usp=sharing)**
+
 ---
 
 ## Skills
