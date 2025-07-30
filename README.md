@@ -7,7 +7,7 @@ I’m passionate about automation, sustainable engineering, and multidisciplinar
 
 📄 **[Download My Mechanical Design Portfolio (PDF)](./Mechanical Design Project Final Portfolio.pdf)**
 
-📄 **[Download My Hydroponics Design Portfolio (PDF)](./Hydroponics Design FOLIO.pdf)**
+📄 **[Download My Hydroponics Design Portfolio (PDF)](./Hydroponics-Design-FOLIO.pdf)**
 ---
 
 ## Skills
