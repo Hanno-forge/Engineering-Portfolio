@@ -10,7 +10,7 @@ I’m passionate about automation, sustainable engineering, and multidisciplinar
 ---
 
 ## Skills
-- **Software:** Autodesk Inventor, Fusion 360, Altium, Multisim, MATLAB, C++, Python
+- **Software:** Autodesk Inventor, Fusion 360, Altium, Multisim, MATLAB, Working knowledge of **C++**, Working knowledge of **Python**
 - **Hardware:** Arduino, motor drivers, stepper motors, sensors
 - **Other:** 3D printing, prototyping, PCB design
 - **many more skills I have not added yet**
